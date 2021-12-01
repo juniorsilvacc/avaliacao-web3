@@ -6,7 +6,7 @@ API construida em Spring Boot
 JSON:
 - {
 	"nome": "Junior",
-	"nota": 1
+	"nota": 10
 }
 
 ### Rotas
